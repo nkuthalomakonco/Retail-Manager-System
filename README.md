@@ -1,27 +1,56 @@
 # Retail-Manager-System
-Retail Manager System This software was created through 'TimCo Retail Manager', a course available on YouTube by Tim Corey.
+Retail Management System — TimCo Enterprise Solutions
+🎯 Goals
 
-Goals
-• Demonstrate modern development techniques.
-• Model how an application grows over time.
-• Create a platform that needs to be upgraded to newer technologies.
-• Create a platform to demonstrate how to incorporate new techniques or tools into existing
-software.
-• Create a hands-on learning tool for developers to simulate a real work environment.
-Situation Step
-In this simulation, we work for TimCo Enterprise Solutions. We build solutions that we can then
-sell to clients. Right now, we have been assigned to build a retail management system. Over time,
-we will get new requirements or entirely new work, just like a real job.
-Initial Project
-We have to build a desktop app that:
-• Runs a cash register
-• Handles inventory
-• Manages the entire store
-To allow it to grow, we will also be creating a Web API layer.
-Initial Plan
-We’re building an MVP (Minimum Viable Product) that we can expand over time. The first steps
-include:
-• Git on Azure DevOps
-• SQL Database (using SSDT - SQL Server Data Tools)
-• Web API with authentication (MS Identity)
-• WPF Application that can log in to the API
+Demonstrate modern development techniques
+
+Model how an application grows over time
+
+Create a platform that can be upgraded to newer technologies
+
+Demonstrate how to incorporate new techniques or tools into existing software
+
+Provide a hands-on learning tool for developers to simulate a real work environment
+
+🧩 Situation
+
+In this simulation, we work for TimCo Enterprise Solutions, a company that builds software solutions to sell to clients.
+
+Our current project is to build a retail management system. Over time, we will receive new requirements and feature requests—just like in a real-world development environment.
+
+🏗️ Initial Project
+
+We need to build a desktop application that can:
+
+Run a cash register
+
+Handle inventory
+
+Manage the entire store
+
+To support future scalability, we’ll also create a Web API layer.
+
+🚀 Initial Plan (MVP)
+
+We’re building a Minimum Viable Product (MVP) that can expand over time.
+The first steps include:
+
+Set up Git on Azure DevOps
+
+Create a SQL Database (using SSDT – SQL Server Data Tools)
+
+Build a Web API with authentication (Microsoft Identity)
+
+Develop a WPF Application that connects and logs in to the API
+
+🧱 Tech Stack
+
+Frontend: WPF (.NET)
+
+Backend: ASP.NET Web API
+
+Database: SQL Server (SSDT)
+
+Authentication: Microsoft Identity
+
+Version Control: Azure DevOps (Git)
