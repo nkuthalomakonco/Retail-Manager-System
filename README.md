@@ -1,4 +1,4 @@
-# Retail-Manager-System
+# Retail Manager System
 Retail Management System — TimCo Enterprise Solutions
 🎯 Goals
 
