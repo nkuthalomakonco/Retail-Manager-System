@@ -1,0 +1,6 @@
+@RMDataManager__HostAddress = http://localhost:5049
+
+GET {{RMDataManager__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
